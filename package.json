@@ -1,0 +1,22 @@
+{
+  "name": "exemplo-travis-ci-02",
+  "version": "1.0.0",
+  "description": "Exemplo de integração com travis ci",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/matheusgomes185/exemplo-travis-ci-02.git"
+  },
+  "author": "Matheus Gomes, Laryssa Santa, Jessyca Ribeiro",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/matheusgomes185/exemplo-travis-ci-02/issues"
+  },
+  "homepage": "https://github.com/matheusgomes185/exemplo-travis-ci-02#readme",
+  "dependencies": {
+    "mocha": "^8.4.0"
+  }
+}
